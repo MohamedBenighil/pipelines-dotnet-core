@@ -21,4 +21,4 @@ steps:
   inputs:
     targetPath: '$(Pipeline.Workspace)'
     publishLocation: 'pipeline'
-    artifact: 'drop'
+    artifact: 'dropBenighil'
